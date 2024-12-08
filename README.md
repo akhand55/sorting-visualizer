@@ -6,3 +6,4 @@ Sort by Selection. Bubble Sort. Sort by Insertion. Sort by Merge. Sort quickly. 
 
 ⚙ How does it work? _In this model, the algorithms sort the elements by putting the largest elements on the right and the smallest on the left. Each element value is represented by THE SIZE OF THE BAR.
 
+You can try it out in the live demo here:https://akhand55.github.io/sorting-visualizer/
